@@ -23,7 +23,8 @@ html{
     transition: 0.3s ease-in-out;
   }  
   .logo {
-    width: 100px;
+    width: 120px;
+    border-radius: 10px;
   }
   
   .hamburger {
